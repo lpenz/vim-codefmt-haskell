@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lpenz/vim-codefmt-haskell.png?branch=master)](https://travis-ci.org/lpenz/vim-codefmt-haskell)
+
 # vim-codefmt-haskell
 
 Haskell formatter for google/vim-codefmt using stylish-haskell
